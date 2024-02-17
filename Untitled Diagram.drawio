@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T16:21:36.659Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="EPWRW9Yj8OfE3_tY1QhX" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T16:22:31.491Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="tzJ9mBWLalwDUxUfQu8i" version="23.1.5" type="github">
   <diagram name="Page-1" id="aaaa8250-4180-3840-79b5-4cada1eebb92">
     <mxGraphModel dx="1258" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="XK8Kei919-bV-4VN1CWe-7" value="&lt;b&gt;&lt;font color=&quot;#e51f1f&quot; style=&quot;font-size: 15px;&quot;&gt;Farmer/user&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="238" y="1588" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XK8Kei919-bV-4VN1CWe-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.azure.user" vertex="1" parent="1">
+          <mxGeometry x="89.99999999999997" y="1579.0900000000001" width="60" height="63.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
